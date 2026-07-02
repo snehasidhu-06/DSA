@@ -114,5 +114,10 @@ public class cf {
 
         System.out.println(newList.indexOf(5));
 
+        //  Linked List - same as above except clone - clonong is not possible like above
+ // lastIndexOf(o:30)
+ 
+
+
     }
 }
