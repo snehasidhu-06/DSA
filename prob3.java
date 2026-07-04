@@ -1,4 +1,4 @@
-// Linear Search
+// Linear Search - true or false
 public class prob3 {
 
     static boolean findTarget(int arr[], int target) {
