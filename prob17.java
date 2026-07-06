@@ -1,4 +1,4 @@
-//Sort 0s and 1s
+//Sort 0s and 1s - O(n^2)
 public class prob17 {
 
     static void sortArray(int[] arr) {

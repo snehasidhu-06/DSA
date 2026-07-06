@@ -14,8 +14,7 @@ public class prob15 {
         }
 
     }
-
-    static void rotateByK(int[] arr, int k) {
+static void rotateByK(int[] arr, int k) {
         int n = arr.length;
 
         k = k % n; // handle cases where k is greater than n
