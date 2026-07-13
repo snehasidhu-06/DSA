@@ -1,4 +1,4 @@
-//Print the sum of each row in 2d array
+//Print the sum of each col in 2d array
 
 import java.util.List;
 import java.util.ArrayList;
