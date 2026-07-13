@@ -18,7 +18,6 @@ public class prob25 {
         }
 
         rightSum[n - 1] = 0;
-
         for (int i = n - 2; i >= 0; i--) {
             rightSum[i] = rightSum[i + 1] + arr[i + 1];
         }
